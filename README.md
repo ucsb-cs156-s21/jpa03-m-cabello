@@ -4,9 +4,9 @@ Repo: https://ucsb-cs156-s21/jpa03-m-cabello
 
 On Heroku: https://jpa03-m-cabello.herokuapp.com
 
-On Codecov: https://codecov.io/gh/ucsb-cs156-s21/jpa03-m-cabello
+On Codecov: https://app.codecov.io/gh/ucsb-cs156-s21/jpa03-m-cabello/
 
-[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho)
+[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-m-cabello/branch/main/graph/badge.svg?token=DJ9cxIIUIl)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-m-cabello)
 
 
 ## Integrations
